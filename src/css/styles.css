@@ -480,6 +480,8 @@ body{
 	}
 
 	.footer{
+		background-image: url(../assets/img/bg-pattern-footer-desktop.svg);
+		background-size: 50%;
 		max-width: 2000px;
 	}
 
