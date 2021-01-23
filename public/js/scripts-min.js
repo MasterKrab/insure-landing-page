@@ -1,0 +1,1 @@
+"use strict";var menu=document.getElementById("menu"),iconMenu=document.getElementById("icon-menu");iconMenu.addEventListener("click",(function(){menu.classList.toggle("menu--active")}));
