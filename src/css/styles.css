@@ -492,6 +492,10 @@ body{
 		justify-content: space-between;
 	}
 	
+	.footer-menu__link:hover{
+		text-decoration: underline;
+	}
+
 	.footer__info{
 		width: 80%;
 		flex-direction: row;
