@@ -216,6 +216,7 @@ body{
 	font-size: 1.2rem;
 	font-family: Karla ,sans-serif;
 	opacity: 0.5;
+	line-height: 2.2rem;
 }
 
 .about-work{
@@ -456,6 +457,10 @@ body{
 	.about-cards__card{
 		text-align: start;
 		
+	}
+
+	.about-card__paragraph{
+		line-height: 2.2rem;
 	}
 
 	.about-work{
